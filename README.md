@@ -1,0 +1,2 @@
+# knightGame
+simple javascript game
